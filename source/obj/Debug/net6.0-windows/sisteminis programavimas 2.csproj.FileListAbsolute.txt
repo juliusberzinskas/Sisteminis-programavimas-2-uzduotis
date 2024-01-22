@@ -1,0 +1,16 @@
+C:\Users\Julius\Desktop\source\bin\Debug\net6.0-windows\sisteminis programavimas 2.exe
+C:\Users\Julius\Desktop\source\bin\Debug\net6.0-windows\sisteminis programavimas 2.deps.json
+C:\Users\Julius\Desktop\source\bin\Debug\net6.0-windows\sisteminis programavimas 2.runtimeconfig.json
+C:\Users\Julius\Desktop\source\bin\Debug\net6.0-windows\sisteminis programavimas 2.dll
+C:\Users\Julius\Desktop\source\bin\Debug\net6.0-windows\sisteminis programavimas 2.pdb
+C:\Users\Julius\Desktop\source\obj\Debug\net6.0-windows\sisteminis_programavimas_2.Form1.resources
+C:\Users\Julius\Desktop\source\obj\Debug\net6.0-windows\sisteminis programavimas 2.csproj.GenerateResource.cache
+C:\Users\Julius\Desktop\source\obj\Debug\net6.0-windows\sisteminis programavimas 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julius\Desktop\source\obj\Debug\net6.0-windows\sisteminis programavimas 2.AssemblyInfoInputs.cache
+C:\Users\Julius\Desktop\source\obj\Debug\net6.0-windows\sisteminis programavimas 2.AssemblyInfo.cs
+C:\Users\Julius\Desktop\source\obj\Debug\net6.0-windows\sisteminis programavimas 2.csproj.CoreCompileInputs.cache
+C:\Users\Julius\Desktop\source\obj\Debug\net6.0-windows\sisteminis programavimas 2.dll
+C:\Users\Julius\Desktop\source\obj\Debug\net6.0-windows\refint\sisteminis programavimas 2.dll
+C:\Users\Julius\Desktop\source\obj\Debug\net6.0-windows\sisteminis programavimas 2.pdb
+C:\Users\Julius\Desktop\source\obj\Debug\net6.0-windows\sisteminis programavimas 2.genruntimeconfig.cache
+C:\Users\Julius\Desktop\source\obj\Debug\net6.0-windows\ref\sisteminis programavimas 2.dll
